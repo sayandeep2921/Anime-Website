@@ -1,0 +1,27 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* it is a container property so we add it in footer */
+
+.btn {
+    padding: 1px 10px;
+    color: white;
+    background-color: rgb(239, 96, 237);
+    border: 1px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: black;
+    font-weight: bold;
+    border-color: black;
+}
+.my-2{
+    margin: 20px 0px;
+}
+.text-center{
+    text-align: center;
+}
